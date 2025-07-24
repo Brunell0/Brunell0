@@ -27,17 +27,17 @@
 </table>
 
 <p align="left">
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/></code>
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP"/></code>
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino"/></code>
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"/></code>
-  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduino"/></code>
+  <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 </p>
 
 
