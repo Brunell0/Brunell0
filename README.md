@@ -37,18 +37,18 @@
 <br>
 
 <p align="left">
-  <a href="mailto:marvincristhian07.contato@gmail.com" target="_blank" title="Gmail">
+  <a href="mailto:brunoantonello2016@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/marvin_cristhian10?igsh=dXN5YmpsbW5pYmg3" target="_blank" title="Instagram">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-antonello2024?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/brunellosoftwares?igsh=MWNucDM0Y251ZXNmeg==" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunello0/Brunello0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunello0/Brunello0/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brunello0/Brunello0/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
@@ -61,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/MarvinCristhian07/count.svg"
+    src="https://profile-counter.glitch.me/Brunello0/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
