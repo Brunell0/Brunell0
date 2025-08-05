@@ -24,7 +24,7 @@
       />
     </td>
   </tr>
-</table>
+</table> 
 
 <p align="left">
   <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java"/></code>
