@@ -1,0 +1,24 @@
+name: Atualizar README com data atual
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Executa todos os dias às 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Atualizar data no README.md
+        run: |
+          DATA=$(date +%Y%m%d)
+          sed -i "s/&v=[0-9]*/\&v=$DATA/g" README.md
+
+      - name: Commit e push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualizando README com data ${{ steps.date.outputs.date }}"
