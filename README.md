@@ -37,7 +37,7 @@
   <code><img height="32" src="assets/bootstrap.png" alt="Bootstrap"/></code>
   <code><img height="32" src="assets/mysql.svg" alt="MySQL"/></code>
   <code><img height="32" src="assets/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="assets/excel.png" alt="Excel"/></code>
+  <code><img height="32" src="assets/excel_new.png" alt="Excel"/></code>
   <code><img height="32" src="assets/powerbi.svg" alt="Power BI"/></code>
   <code><img height="32" src="assets/r.svg" alt="R"/></code>
 </p>
