@@ -40,6 +40,10 @@
   <code><img height="32" src="assets/excel_new.png" alt="Excel"/></code>
   <code><img height="32" src="assets/powerbi.svg" alt="Power BI"/></code>
   <code><img height="32" src="assets/r.svg" alt="R"/></code>
+  <code><img height="32" src="assets/latex.png" alt="LaTeX"/></code>
+  <code><img height="32" src="assets/roblox_studio.png" alt="Roblox Studio"/></code>
+  <code><img height="32" src="assets/godot.png" alt="Godot"/></code>
+  <code><img height="32" src="assets/gamemaker.png" alt="Gamemaker"/></code>
 </p>
 
 <br>
