@@ -12,11 +12,11 @@
 <div align="left">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Brunell0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-three-beta-17.vercel.app/api?username=Brunell0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brunell0&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats-three-beta-17.vercel.app/api/top-langs/?username=Brunell0&layout=compact&theme=tokyonight&langs_count=8"
   />
 </div>
 
